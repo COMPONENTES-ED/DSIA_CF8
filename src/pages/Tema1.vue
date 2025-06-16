@@ -50,14 +50,15 @@
         </div>
         <div class="col-lg-7 my-lg-0 my-3">
           <p>
-            Antes de construir un dataset, es esencial establecer los
+            Antes de construir un <em>dataset</em>, es esencial establecer los
             requerimientos y diseñarlo adecuadamente. Esta fase consiste en
-            definir cuál es el objetivo del dataset, qué tipo de información se
-            necesita recolectar, y cuáles serán las características más
-            relevantes. Para diseñar un buen dataset, se debe considerar el tipo
-            de datos que se van a manejar: datos estructurados,
-            semiestructurados, o no estructurados. Cada tipo tiene implicaciones
-            diferentes en cuanto a su manipulación y almacenamiento.
+            definir cuál es el objetivo del <em>dataset</em>, qué tipo de
+            información se necesita recolectar, y cuáles serán las
+            características más relevantes. Para diseñar un buen
+            <em>dataset</em>, se debe considerar el tipo de datos que se van a
+            manejar: datos estructurados, semiestructurados, o no estructurados.
+            Cada tipo tiene implicaciones diferentes en cuanto a su manipulación
+            y almacenamiento.
           </p>
           <div class="bg4 brad p-3 j1">
             <p class="mb-0">
@@ -66,7 +67,7 @@
               ¿Qué problema se busca resolver? ¿Qué tipo de modelo se utilizará?
               ¿Qué preguntas se intentarán responder con los datos? Las
               respuestas a estas interrogantes guiarán la definición de los
-              requerimientos del dataset.
+              requerimientos del <em>dataset.</em>
             </p>
           </div>
         </div>
@@ -160,19 +161,19 @@
         ></div>
         <div class="bloque-texto-g__texto p-4">
           <p class="mb-0">
-            Además, el diseño del dataset incluye determinar la fuente de los
-            datos: ¿provendrán de archivos CSV, bases de datos relacionales, o
-            APIs externas? Definir cómo se capturarán los datos ayuda a
-            garantizar la consistencia y disponibilidad necesaria para el
-            modelado. En esta fase también se debe planificar cómo se realizará
-            la transformación de datos y si se necesitan datos adicionales para
-            enriquecer el conjunto. La selección de estas estrategias impactará
-            directamente en la calidad del dataset y, por ende, en el
-            rendimiento del modelo.
+            Además, el diseño del <em>dataset</em> incluye determinar la fuente
+            de los datos: ¿provendrán de archivos CSV, bases de datos
+            relacionales, o APIs externas? Definir cómo se capturarán los datos
+            ayuda a garantizar la consistencia y disponibilidad necesaria para
+            el modelado. En esta fase también se debe planificar cómo se
+            realizará la transformación de datos y si se necesitan datos
+            adicionales para enriquecer el conjunto. La selección de estas
+            estrategias impactará directamente en la calidad del
+            <em>dataset</em> y, por ende, en el rendimiento del modelo.
           </p>
-          <br />Un diseño bien definido del dataset asegurará la calidad de los
-          datos y facilitará las etapas posteriores del proceso de
-          <i>Machine learning</i>.
+          <br />Un diseño bien definido del <em>dataset</em> asegurará la
+          calidad de los datos y facilitará las etapas posteriores del proceso
+          de <i>Machine learning</i>.
         </div>
       </div>
       <div class="row bg7 align-items-center">
@@ -182,9 +183,9 @@
             <h2>1.2 Técnicas de recolección</h2>
           </div>
           <p>
-            Una vez que se ha diseñado el dataset, se debe proceder a la
-            recolección de datos. Existen varias técnicas de recolección que se
-            utilizan dependiendo del contexto y del tipo de datos que se
+            Una vez que se ha diseñado el <em>dataset</em>, se debe proceder a
+            la recolección de datos. Existen varias técnicas de recolección que
+            se utilizan dependiendo del contexto y del tipo de datos que se
             necesiten. Algunas de las más comunes incluyen:
           </p>
           <div class="row justify-content-center mb-4">
@@ -269,7 +270,7 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td>Web Scraping.</td>
+                      <td><em>Web Scraping.</em></td>
                       <td>No estructurados.</td>
                       <td>Gran cantidad de datos.</td>
                       <td>Problemas legales y de calidad.</td>
